@@ -11,3 +11,5 @@ tags: ['Tag1', 'Tag2']
 这是系统自动生成的演示文章。编辑或者删除它，然后开始您的博客！
 
 当前版本: *1.1.0*
+
+Opoo Pages 请参考 <https://pages.opoo.org/>
